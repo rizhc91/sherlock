@@ -23,7 +23,7 @@
 ## Installation
 
 > [!WARNING]  
-> Packages for ParrotOS and Ubuntu 24.04, maintained by a third party, appear to be __broken__.  
+> Packages for ParrotOS and Ubuntu 24.04, maintained by a third party,
 > Users of these systems should defer to pipx/pip or Docker.
 
 | Method | Notes |
